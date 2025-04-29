@@ -1,4 +1,4 @@
-# Online Book Store - QA Project 1
+# Online Book Store - QA Project
 
 This repository showcases my **QA project** for an **Online Book Shopping Platform**. The project demonstrates my ability to perform requirement analysis, create comprehensive test plans, and design and execute detailed test cases.
 
